@@ -1,0 +1,5 @@
+{
+    "pdata_dir": "/Users/gsl/BrainstrokecalServer/data",
+    "log_file":"/Users/gsl/BrainstrokecalServer/log/log.txt",
+    "server_setting":"/Users/gsl/BrainstrokecalServer/etc/BrainstrokecalServer.ini"
+}

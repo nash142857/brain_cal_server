@@ -1,0 +1,25 @@
+#ifndef QTSOURCE_H
+#define QTSOURCE_H
+#include <qdir.h>
+#include <qfileinfo.h>
+#include <qfile.h>
+#include <qpixmap.h>
+#include <QtCore/QDateTime>
+#include <QtCore/QBuffer>
+#include <QtCore/QDateTime>
+#include <QtCore/QDir>
+#include <QtCore/QFileInfo>
+#include <QtCore/QMimeDatabase>
+#include <QtCore/QTextStream>
+#include <QtCore/QTimer>
+#include <QtGui/QGuiApplication>
+#include <QtGui/QIcon>
+#include <QDebug>
+#include <QtSql>
+#include <qpainter.h>
+#include <qimage.h>
+#include <qfile.h>
+#include <QKeyEvent>
+#include <QThread>
+#include <QObject>
+#endif // QTSOURCE_H
